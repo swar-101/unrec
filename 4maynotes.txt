@@ -1,0 +1,115 @@
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+
+Prabhakar & Swar
+
+pxp-health-event-handler 
+pxp-health-event-scheduler
+pxp-health-data-service
+
+
+
+
+7 spring boot microservices as single project
+ - we write the basic structure for demo
+  
+ - so that we come up with queries to understand gaps 
+ 
+ - so that these microservices can be containerized in the future 
+
+
+- UML 
+	  -- sequence diagram for the entire target group ✅ 
+	  -- ERD for health data
+      
+	  
+	  
+	  
+	  ASUMPtion 
+	  main logic 
+	  base case
+	  
+	
+    a^ 4 =	a x a x a x a 
+		 =  a x a x a^2
+		 =  a x a^ 3
+		 =  a^4
+
+	if a 
+	a^n = a x a^(n-1)
+	
+	
+	
+	
+	
+	
+	pow(a, N) {
+	
+		if(N == 0) {
+			return 1;
+		}
+		
+		if(a%2==0) {
+			 return pow(a,N/2)*pow(a,N/2);
+			}
+			else 
+			
+
+		}
+		
+		
+		}
+		
+		
+		
+	
+	}
+	
+	16 4
+	
+	25 6.75
+	
+	33 
+
+
+
+
+99 99 99 99 99	
+
+
+
+
+
+
+
+10^9%2             10%2^9
+
+= (1000000000)%2     = (10 % 2)^9
+= 100% 2          = (0)^2
+= 0
+
+
+
+
+
+
+a^n%m
+
+calExp(a, n, m) {
+
+ return (a%m)^n;
+}
+
+
